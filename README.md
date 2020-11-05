@@ -1,5 +1,5 @@
 # SQL-Project-1
-
+Working Project with a Team of 4 at Wild code School- September 2020
 SQL-project-training
 Projet SQL / Wild Code School 2020
 
